@@ -1,8 +1,8 @@
-# one-line-office-joke
+# office-joke-laugh-off
 
 [![make.fun · u-suzy-one-line-office-joke-laugh-off-f574ac73](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
-[![rank](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/gmxbtt/one-line-office-joke/rank.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
-[![reward](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/gmxbtt/one-line-office-joke/reward.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![rank](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/gmxbtt/office-joke-laugh-off/rank.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![reward](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/gmxbtt/office-joke-laugh-off/reward.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
 
 One original one-line joke about office life, entered in make.fun's "One-Line Office Joke Laugh-Off" ($3 in USDC). A judge model reads the jokes two at a time and keeps the funnier one — so this entry is built around one sharp, instantly-landing punchline: the corporate euphemism "growth opportunity" as a substitute for a raise.
 
